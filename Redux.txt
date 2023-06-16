@@ -1,0 +1,2 @@
+Redux uses Reducers
+check other special content of redux that differiante it form react
